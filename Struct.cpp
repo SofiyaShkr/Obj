@@ -18,7 +18,7 @@ struct author//структура "автор"
 
 	void showAuthor()//вывод автор
 	{
-		cout << sname << " || " << name << " || " << country << " || ";
+		cout << sname << " *** " << name << " **** " << country << " *** ";
 	}
 };
 struct book//структура книга
